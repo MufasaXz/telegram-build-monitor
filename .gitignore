@@ -1,0 +1,8 @@
+# Secrets and local state
+config.env
+state/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
